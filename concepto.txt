@@ -1,1 +1,2 @@
 este es un proyecto donde se demuestra lo aprendido en el curso de GIT
+haciendo un cambio en el servidor remoto
